@@ -1,0 +1,109 @@
+/* Estilos de Logo "Viajes Chile" */
+.imagen-1{
+    width: 30px;
+}
+
+.config-slide-1{
+    height: 5%;
+    margin-top: 33%;
+}
+
+/* Estilos de Indice */
+.index1{
+    margin-left: 612px;
+}
+
+/* Estilos de Fondo */
+.background1{
+    background: #000;
+}
+
+.background4{
+    padding: 50px;
+    margin-top: -30px;
+}
+
+
+/* Estilos de Color */
+.background2{
+    background: #11c0ff;
+    height: 3px !important;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.background3{
+    background: #11c0ff;
+    text-align: center;
+    height: 40px;  
+    font-size: 25px;
+    color: #fff;
+}
+
+.background5{
+    background: #11c0ff !important; 
+}
+
+.background6{
+    background: #11c0ff !important; 
+    height: 50px;
+}
+
+
+/* Estilos de Cartas */
+.card-body{
+    background: #000;
+}
+
+.card{
+    border-color: #000;
+    color:#fff;
+    font-family: sans-serif;
+}
+
+/* Estilos de texto */
+.text1{
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: lighter;
+}
+
+.text2{
+    font-size: 23px;
+}
+
+.text3{
+    margin-left: 200px;
+    color: #fff;
+ 
+}
+/* Estilos de bordes */
+.border1{
+    border-color: #fff;
+    border-radius: circle;   
+}
+
+/* Estilos de typeform */
+.footer1{
+    margin-top: 30px;
+    
+}
+
+.typerform2{
+    height: 460px;    
+}
+
+/* Estilos de icono */
+.icon2{
+    font-size: 37px;   
+    color: #fff;
+    margin-top: 6px;
+}
+
+/* Estilo de Imagen */
+.imagen1{
+    height: 170px;
+}
